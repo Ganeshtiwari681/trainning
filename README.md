@@ -1,0 +1,2 @@
+# trainning
+ mpgi training solution
