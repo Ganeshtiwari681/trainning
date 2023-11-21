@@ -1,2 +1,3 @@
-# assignment 1
- mpgi training solution
+# assignment 
+Training Assignment 1 solution in C language
+
